@@ -14,7 +14,7 @@
 </blockquote>
 <blockquote>
         <ul>
-                <li><em>I am one of the leaders of thI'm one of the leaders of the organization <a href="https://chat.whatsapp.com/G6ne8D7A9qnGO0JdnSYqNx">Albânia-Security</a></em></li>
+                <li><em> I am currently CEO of Albania-Security <a href="https://chat.whatsapp.com/G6ne8D7A9qnGO0JdnSYqNx">Albânia-Security</a></em></li>
         </ul>
 </blockquote>
 
