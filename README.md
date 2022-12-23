@@ -19,7 +19,6 @@
 </blockquote>
 
 <h3>>> Social Networks</h3>
-<a href="https://wa.me/5511959228439"><img width=135 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a><br/>
 <a href="https://t.me/lacostehype"><b><em><img width=135 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></em></b></a>
 
 <h3><em> >> Language </em></h3>
