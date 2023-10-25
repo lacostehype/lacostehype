@@ -9,7 +9,7 @@
 </center>
 <blockquote>
         <ul>
-                <li><em>Olá, me chamo Eduardo tenho 18 anos, sou estudante de segurança da informação e programação em python e shell script</em></li>
+                <li><em>Olá, me chamo Eduardo tenho 19 anos, sou estudante de segurança da informação e programação em python com enfase em análise de dados </em></li>
         </ul>
 </blockquote>
 <blockquote>
